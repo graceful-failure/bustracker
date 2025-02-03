@@ -15,7 +15,7 @@ password = "XXXX"
 
 url = "http://publicyork4.rslepi.co.uk/departureboards/mEPIDepartureBoard.aspx?ID=XXXX"#Departure board URL without HTTPS
 
-relevant_routes = {'1', '1A', '13'} #Set of routes we're interested in
+relevant_routes = {'X', 'X', 'X'} #Set of routes we're interested in
 
 #30 neopixels in the string numbers 0-29. Controlled on pin 17
 np=neopixel.NeoPixel(machine.Pin(17), 30)
